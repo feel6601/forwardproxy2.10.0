@@ -6,7 +6,7 @@ toolchain go1.23.5
 
 require (
 	github.com/caddyserver/caddy/v2 v2.9.1
-	github.com/sagernet/sing v0.6.0
+	github.com/sagernet/sing v0.6.11
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.33.0
 )
